@@ -1,2 +1,2 @@
 # MSAR
-Team Ui-Ux Design
+Ui-Ux Design Team
