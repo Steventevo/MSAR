@@ -2,7 +2,6 @@
 Ui-Ux Design Team
 
 # Key Features
-ممكن تحطها بالشكل ده
 -Responsive User Interface
 
 - Personalized User Experience based on persona needs
