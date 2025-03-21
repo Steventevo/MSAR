@@ -3,7 +3,7 @@ Ui-Ux Design Team
 
 # Key Features
 
--Responsive User Interface
+- Responsive User Interface
 
 - Personalized User Experience based on persona needs
  
